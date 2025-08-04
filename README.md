@@ -25,6 +25,8 @@ ASI-CIS 采集时间间隔为30s，像素分辨率为512*512 。
 # Download
 
 在下载数据集前，你应保证已阅读并理解 ASI-CIS 协议中包含的所有内容。下载并将 ASI-CIS 用于你的研究，即表示你同意 ASI-CIS 协议中的所有限制与要求 。
+
 完整数据集云盘链接：https://pan.baidu.com/s/1pqV5dnD_5d9BmSyXcjmGyQ?pwd=1q95
+
 云盘提取密码请联系邮箱：qingxinqazxsw@163.com
 
